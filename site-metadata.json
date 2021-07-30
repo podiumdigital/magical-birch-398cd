@@ -29,7 +29,7 @@
         {
             "title": "lorem-ipsum",
             "url": "#",
-            "style": "secondary",
+            "style": "link",
             "arrow": false,
             "type": "action"
         }
