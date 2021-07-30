@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: images/131354636_3765783696814758_3894421454740516173_o.jpg
     background_image_opacity: 65
     content: >
       # Real Bikes right here in the heart of Chatswood, Sydney
