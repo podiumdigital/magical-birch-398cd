@@ -30,7 +30,7 @@
             "title": "lorem-ipsum",
             "url": "#",
             "style": "primary",
-            "arrow": true,
+            "arrow": false,
             "type": "action"
         }
     ],
