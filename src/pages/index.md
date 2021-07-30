@@ -17,7 +17,7 @@ sections:
         url: /store
         arrow: true
         style: primary
-      - title: lorem-ipsum
+      - title: Search
         url: '#'
         style: secondary
         arrow: false
